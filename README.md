@@ -1,4 +1,3 @@
 # React(TS) without CRA
 
-You can use React Light version
-# react-boilerplate
+You can use the React Light version
