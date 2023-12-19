@@ -5,7 +5,7 @@ const path = require('path');
 module.exports = {
   entry: path.join(__dirname, '../src/index.tsx'),
   resolve: {
-    extensions: ['.js', '.jsx', '.ts', '.tsx'],
+    extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
     alias: {
       '@': path.resolve(__dirname, '../src'),
     },
